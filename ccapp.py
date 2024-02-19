@@ -15,9 +15,6 @@ import pandas as pd
 import streamlit as st
 import pickle
 
-import streamlit as st
-import pandas as pd
-import pickle
 
 def main():
     st.title('Credit Card Approval Prediction')
