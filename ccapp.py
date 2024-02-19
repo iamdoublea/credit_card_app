@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1wLDEYltZu1oSXdu5H1TWh3uRAmUSvEH1
 """
 
-!pip install scikit-learn
 
 import sklearn
 
