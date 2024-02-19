@@ -8,8 +8,6 @@ Original file is located at
 """
 
 
-import sklearn
-
 
 import pandas as pd
 import streamlit as st
